@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8003eabc-0de3-4020-b8f7-b97ad46ab0ed" name="Changes" comment="H">
-      <change beforePath="$PROJECT_DIR$/../BBCP_Deconvolution" beforeDir="false" afterPath="$PROJECT_DIR$/../BBCP_Deconvolution" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GPC_Graphing" beforeDir="false" afterPath="$PROJECT_DIR$/../GPC_Graphing" afterDir="false" />
-    </list>
+    <list default="true" id="8003eabc-0de3-4020-b8f7-b97ad46ab0ed" name="Changes" comment="H" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +23,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dobra/PycharmProjects/Guironnet Lab/Opentrons-2_Scripts",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
