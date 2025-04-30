@@ -1,6 +1,6 @@
 from opentrons import protocol_api
 
-metadata = {'apiLevel': '2.19',
+metadata = {'apiLevel': '2.22',
             'protocolName': 'New PS-b-PLA ROMP-RAFT With Stirring',
             'description': '''This protocol is for running PS-b-PLA ROMPs.''',
             'author': 'Edgar Dobra'}
